@@ -12,7 +12,7 @@ Neighborhood
 Building Class Category
 Sale Price
 Sale Date
-Building Class Category: 
+Building Class Category 
 Square Footage
 Year Built
 
@@ -41,6 +41,7 @@ The analysis provides insights into:
 
 Distribution of property sales across different boroughs and neighborhoods.
 Price trends and variations based on property tax class and building class.
+Price correlation with other characterstics of Property. 
 Building Catgory of property transfer sales. 
 
 Conclusion:
